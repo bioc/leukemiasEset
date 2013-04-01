@@ -1,0 +1,13 @@
+Package: leukemiasEset
+Type: Package
+Title: Leukemia's microarray gene expression data (expressionSet).
+Version: 0.99.2
+Date: 2013-03-20
+Author: Sara Aibar, Celia Fontanillo and Javier De Las Rivas. Bioinformatics and Functional Genomics Group. Cancer Research Center (CiC-IBMCC, CSIC/USAL). Salamanca. Spain.
+Maintainer: Sara Aibar <saibar@usal.es>
+Depends: R (>= 2.10.1), Biobase (>= 2.5.5)
+Description: Expressionset containing gene expresion data from 60 bone marrow samples of patients with one of the four main types of leukemia (ALL, AML, CLL, CML) or non-leukemia.
+License: GPL (>= 2)
+LazyLoad: yes
+biocViews:
+        Bioinformatics,Classification,Microarray,GeneExpression,Leukemia,Cancer
